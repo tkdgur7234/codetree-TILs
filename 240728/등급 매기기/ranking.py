@@ -2,7 +2,7 @@ n = int(input())
 if n >= 90:
     print("A")
 elif n >= 80:
-    prnit("B")
+    print("B")
 elif n >= 70:
     print("C")
 elif n >= 60:
